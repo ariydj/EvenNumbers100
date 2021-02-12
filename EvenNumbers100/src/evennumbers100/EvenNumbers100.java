@@ -8,6 +8,8 @@ package evennumbers100;
 /**
  *
  * @author David Ariyaratnam
+ * the for loop goes to 100 going up by 2 until it hits 100
+ * ' \n' puts the number on a new line
  */
 public class EvenNumbers100 {
 
